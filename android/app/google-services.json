@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117547224133",
+    "firebase_url": "https://finalproject-d25db.firebaseio.com",
+    "project_id": "finalproject-d25db",
+    "storage_bucket": "finalproject-d25db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117547224133:android:7d8694fdf2421091ec672c",
+        "android_client_info": {
+          "package_name": "altorumleren.com.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117547224133-357ulhn1knojcbe1omvjr0l2ktaefdvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMRwCbEVeKjSVyY_U64bkXdefsIwXg4Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117547224133-357ulhn1knojcbe1omvjr0l2ktaefdvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
